@@ -34,7 +34,7 @@ The  Internal staff Self Service Bot is built to assist internal staff by provid
 ### Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hr-self-service-bot.git
+    git clone https://github.com/Haggai-ik/RAG_AI_SELF_SERVICE_BOT.git
     cd hr-self-service-bot
     ```
 
